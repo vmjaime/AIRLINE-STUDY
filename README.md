@@ -1,2 +1,2 @@
 # AIRLINE-STUDY
-Este proyecto tiene como objetivo escoger un criterio de agrupación y estudiar los retrasos por día de la semana de los vuelos mas cortos y con un retraso mas elevado
+This project aims to select a grouping criterion and study the delays by day of the week for the shortest and most delayed flights
