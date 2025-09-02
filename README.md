@@ -1,18 +1,50 @@
-# AIRLINE-STUDY
-**Flight Delay Analysis**
-This project aims to study delays on long-haul flights (>2000 km) with delays of more than 2 hours. The analysis focuses on the following key points:
+✈️ AIRLINE-STUDY
 
-_Flight filtering:_
+Flight Delay Analysis on Long-Haul Flights
 
-Only flights with a distance of more than 2000 km and with delays of more than 2 hours are selected.
+This project focuses on analyzing delays in long-haul flights (>2000 km), specifically those with delays greater than 2 hours. The objective is to uncover delay patterns and evaluate which factors most strongly influence these events.
 
-_Study of delays according to the day of the week:_
+🔎 Project Scope
+1. Flight Filtering
 
-A grouping criterion (e.g. day of the week) is chosen to analyse the average delays of the longest and most delayed flights.
+Only flights with:
 
-_Identification of predictor variables:_
+Distance greater than 2000 km.
 
-Available variables that could have a significant impact on the prediction of delays (e.g. month, departure time, airline, etc.) are identified and analysed. The objective is to determine which variable best predicts flight delays.
+Delay greater than 2 hours.
 
-**This analysis is intended to help understand delay patterns on long flights and provide useful information on how different variables may influence the occurrence of these delays.**
+2. Delay Analysis by Day of the Week
 
+Grouping criterion: day of the week.
+
+Evaluation of average delays to identify trends and peak delay days.
+
+3. Identification of Predictor Variables
+
+Exploration of potential predictors such as:
+
+Month of the year
+
+Departure time
+
+Airline
+
+Day of the week
+
+Determination of which variable(s) best predict significant flight delays.
+
+🎯 Objectives
+
+Understand delay patterns on long-haul flights.
+
+Provide insights into how temporal, operational, and airline-related factors contribute to delays.
+
+Support data-driven strategies to mitigate future disruptions.
+
+📊 Expected Outcomes
+
+Clear visualizations of flight delay patterns.
+
+Insights into which variables are most influential in predicting long delays.
+
+A foundation for building predictive models to improve airline operations and passenger experience.
